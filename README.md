@@ -42,16 +42,10 @@
     "파일 -> GitHub에 사본 저장"을 클릭하면 아래와 같은 창을 확인할 수 있으며, 원하는 커밋 메세지 입력 후 확인
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
-* 소스코드 외 모델 구조, weight, 컴파일된 모델 파일 (.json, .h5) 제출<br>
-    - 주어진 템플릿으로 올바르게 실행을 하면 데이터 셋 별로<br>
-    모델 구조(model_structure_data_type_teamXX.json),<br>
-    가중치(model_weight_data_type_teamXX.h5),<br>
-    컴파일된 모델(model_entire_data_type_teamXX.h5) 파일이 **/content**에 생성됩니다<br>
-    우클릭 - 다운로드 로 위에 나열된 모든 파일을 다운<br>
+* 소스코드 외 컴파일된 모델 파일 (.h5) 제출<br>
+    - 주어진 템플릿으로 올바르게 실행을 하면 컴파일된 모델(model_entire_teamXX.h5) 파일이 **/content**에 생성됩니다<br>
+    우클릭 - 다운로드 로 위에 나열된 파일을 다운<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/file.png">  <br>
-    다운로드 된 파일을 데이터 셋에 따라 폴더로 구분<br>
-    ( + 각 폴더에 3개의 파일이 있어야 함 )<br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/folder.png"> <br>
     
     - 파일들을 GitHub에 추가<br>
     fork한 repository에서 우측 Upload files를 클릭
@@ -64,12 +58,14 @@
         
 ### 최종 제출물
 
-**소스코드 (hackathon_teamXX.ipynb), 데이터 셋 별 모델 구조 (model_structure_teamXX.json), 모델 weight(model_weight_teamXX.h5), 컴파일된 모델 (model_entire_teamXX.h5)**
+**소스코드 (hackathon_teamXX.ipynb), 컴파일된 모델 (model_entire_teamXX.h5)**
 
 개인 repo 상태과 다음과 같아야 함<br>
 <img src="https://raw.githubusercontent.com/cauosshackathonta/2020_cau_oss_hackathon/master/image/final.png"> <br>
 
 **(중요) 최종 제출물이 가장 최신 버전인지, GitHub에 잘 올라가졌는지 다시 한번 확인 부탁드립니다.**
+
+**발표자료는 8/29 (토) 오후 11시까지 조교 (cau.oss.hackathon.ta@gmail.com) 메일로 제출**
 
 ---
 
