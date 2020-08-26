@@ -9,10 +9,10 @@
     fork로 생성된 Git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
     
 * Fork한 repository의 노트를 colab로 열기<br>
-    https://colab.research.google.com/github/{%username}/2020_cau_oss_hackathon/blob/master/hackathon_template.ipynb <br>
+    https://colab.research.google.com/github/{%username}/2020_cau_oss_hackathon/blob/master/hackathon2020_template.ipynb <br>
     위 url에서 {%username}을 본인 계정 이름으로 변경 후 접속<br>
     ex) 
-    https://colab.research.google.com/github/weenybeenymini/2020_cau_oss_hackathon/blob/master/hackathon_template.ipynb 
+    https://colab.research.google.com/github/weenybeenymini/2020_cau_oss_hackathon/blob/master/hackathon2020_template.ipynb 
 
 * 구글 드라이브에 노트 저장하고 조교와 공유 **(중요)** <br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
